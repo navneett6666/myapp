@@ -1,1 +1,2 @@
 beta release v1.0
+beta release v1.1
